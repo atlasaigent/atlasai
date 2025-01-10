@@ -1,7 +1,8 @@
 # Atlas AI 🌐
 
 <div align="center">
-  ![image](https://github.com/user-attachments/assets/ea179155-1893-4bf6-960e-ab7745d2d475)
+
+    [image](https://github.com/user-attachments/assets/a1869b05-01b5-443f-a356-1d44fa42d08c)
 
   <p><em>Your AI-Powered Trading Companion</em></p>
 </div>
