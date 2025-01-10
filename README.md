@@ -2,7 +2,7 @@
 
 <div align="center">
 
-    [image](https://github.com/user-attachments/assets/a1869b05-01b5-443f-a356-1d44fa42d08c)
+      <img src="https://github.com/user-attachments/assets/a1869b05-01b5-443f-a356-1d44fa42d08c" alt="Atlas AI Banner" width="100%" />
 
   <p><em>Your AI-Powered Trading Companion</em></p>
 </div>
