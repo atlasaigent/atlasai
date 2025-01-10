@@ -2,9 +2,11 @@
 
 <div align="center">
 
-      ![photo_2025-01-10_18-26-41](https://github.com/user-attachments/assets/62d05672-49c0-4123-a3a0-5c1ae1577656)
   <p><em>Your AI-Powered Trading Companion</em></p>
 </div>
+
+  ![photo_2025-01-10_18-26-41](https://github.com/user-attachments/assets/62d05672-49c0-4123-a3a0-5c1ae1577656)
+
 
 <div align="center">
 
