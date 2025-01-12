@@ -5,7 +5,7 @@
   <p><em>Your AI-Powered Trading Companion</em></p>
 </div>
 
-  ![photo_2025-01-10_18-26-41](https://github.com/user-attachments/assets/62d05672-49c0-4123-a3a0-5c1ae1577656)
+![BANNER1 (2)](https://github.com/user-attachments/assets/1670b1be-62aa-4e5c-a4cd-142c13e33c46)
 
 
 <div align="center">
